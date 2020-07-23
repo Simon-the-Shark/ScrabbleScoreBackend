@@ -1,6 +1,6 @@
+dbs/sjp-20200717.db filter=lfs diff=lfs merge=lfs -text
+dbs/sjp-20200717.zip filter=lfs diff=lfs merge=lfs -text
 *.zip filter=lfs diff=lfs merge=lfs -text
 *.db filter=lfs diff=lfs merge=lfs -text
 sjp-20200717.db filter=lfs diff=lfs merge=lfs -text
 sjp-20200717.zip filter=lfs diff=lfs merge=lfs -text
-dbs/sjp-20200717.db filter=lfs diff=lfs merge=lfs -text
-dbs/sjp-20200717.zip filter=lfs diff=lfs merge=lfs -text
